@@ -1,0 +1,32 @@
+.avatar img {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+}
+.top_bar {
+  background-color: #5e9ea0;
+  border-top-left-radius: 2em;
+  border-top-right-radius: 2em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+.top_bar h2 {
+  color: white;
+  text-align: center;
+}
+.card {
+  /* padding: 1.5em 0.5em 0.5em; */
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.user_info h5 {
+  color: #0f5132;
+}
+.user_info h5 span {
+  color: #5e9ea0;
+}
+.logout_btn {
+  text-align: right;
+}
